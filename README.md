@@ -1,1 +1,2 @@
 # ChangeAware-ITD
+This repository contains the official implementation of our paper, Change-aware Temporal Alignment on Heterogeneous Graph Snapshots for Insider Threat Detection. It includes two main parts: graph construction, which transforms raw logs into scenario-semantic heterogeneous graph snapshots, and anomaly detection, which performs temporally aligned representation learning and difference-enhanced scoring for insider threat detection.
